@@ -5,7 +5,7 @@
     <link>https://nielswd23.github.io/publication-type/3/</link>
       <atom:link href="https://nielswd23.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nielswd23.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Influence of input on part of speech tagging: Comparing adult directed and child directed speech</title>
+      <link>https://nielswd23.github.io/publication/dickson-2021-pos/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nielswd23.github.io/publication/dickson-2021-pos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Relative Contributions of Taxonomic and Thematic Knowledge When Making Similarity Judgements</title>
       <link>https://nielswd23.github.io/publication/dickson-cox-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://nielswd23.github.io/publication/dickson-cox-2020/</guid>
       <description></description>
     </item>
